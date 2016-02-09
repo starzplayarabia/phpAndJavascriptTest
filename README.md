@@ -2,7 +2,7 @@
 
 You need to prepare a php service that loads this URL:
 
-http://feed.entertainment.tv.theplatform.eu/f/qaJAph/peg_mena_layout?form=cjson&byScheme=urn:peg:layoutDskMainPage
+https://peg-dev-public-api.eu.cloudhub.io/api/v0.2/mediaCatalog/layout/?byScheme=urn:peg:layoutDskMainPage&lang=en
 
 This service must return to a controller that generates an html page with this structure:
 
