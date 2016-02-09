@@ -25,9 +25,9 @@ This service must return to a controller that generates an html page with this s
 
 - When you roll over a image in the carousel, you must draw over the image the title and description, if available
 
-- Use of framework in the php part
+- Use of framework in the php part instead plain php (Cakephp, symphony, etc)
 
-- Use of framework in the front-end part
+- Use of framework in the front-end part instead vanillascript (angularjs, emberjs, etc) 
 
 - Responsive layout 
 
