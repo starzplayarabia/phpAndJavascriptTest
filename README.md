@@ -38,11 +38,11 @@ This service must return to a controller that generates an html page with this s
 
 - You can use whatever library you need
 
-- Horizontal carousel is something similar to this
+- Horizontal images carousel is something similar to this
 
 ![Horizontal carousel](/img/heroH.png)
 
-- Vertical carousel is something similar to this
+- Vertical images carousel is something similar to this
 
 ![Vertical carousel](/img/heroV.png)
 
