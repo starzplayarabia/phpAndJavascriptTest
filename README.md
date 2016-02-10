@@ -46,3 +46,8 @@ This service must return to a controller that generates an html page with this s
 
 ![Vertical carousel](/img/heroV.png)
 
+# After the test
+
+When you finish the test, please make a fork of this repository and then make a pull request with your code. 
+ 
+Thanks!
